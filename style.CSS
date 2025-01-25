@@ -1,0 +1,39 @@
+nav a {
+      background-color: darkgoldenrod;
+      border-radius: 25px;
+      padding:1px;
+      margin:5px;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: navy ;
+    padding: 7px;
+    border-radius: 50px;
+}
+
+a {
+    color: red;
+    border: violet 1px solid;
+    padding: 3px;
+}
+
+h1 {
+    color:aquamarine;
+}
+
+footer p {
+    border: solid 5px navajowhite;
+}
+
+nav {
+    background-color: navy;
+    border-radius: 50px;
+    margin-left:10px;
+    margin-right: 10px;
+    border: 5px solid navy;
+    text-align: center;
+}
